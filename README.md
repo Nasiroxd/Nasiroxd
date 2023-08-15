@@ -3,7 +3,7 @@
 ### 👋Hello,Nasir chowdhury
 
 ---
-A full time work java program..
+A full time work java program..  
 🏠 Living: Gazipur, Bangladesh
 
 #### Java Developer
@@ -12,6 +12,8 @@ A full time work java program..
 
 ---
 I am a java Developer .........
+
+---
 
 Skills: Java / JS / HTML / CSS
 
