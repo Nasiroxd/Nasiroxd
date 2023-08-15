@@ -1,10 +1,10 @@
 ![Java Developer](https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/264337340_477696693789526_2296269254115851130_n.jpg?stp=dst-jpg_p526x296&_nc_cat=111&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeE2LZuVF8EFn7IJq_jmfYe6PnUMIUKoEmc-dQwhQqgSZ7S9fvkN3GRPjx4x7rgLd_HAP5ZnnSxNR56bxagzJ9UO&_nc_ohc=5QVcqWH22owAX_YHiBj&_nc_ht=scontent.fdac155-1.fna&oh=00_AfD0GJfYu82yl2Vi3ar0luYg-pdt9sf-q0sAaldZlwlDIw&oe=64E0017A)
 
-### 👋 Nasir chowdhury
+### 👋Hello,Nasir chowdhury
 #### Java Developer
 
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+#### About me
+I am a java Developer .........
 
 Skills: Java / JS / HTML / CSS
 
