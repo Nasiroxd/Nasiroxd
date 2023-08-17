@@ -36,6 +36,17 @@ Skills: Java / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Nasiroxd) 
 
+## 🏫 Education:
+1. BBA in Finance, Accounting
+    Uttara, University
+    Bangladesh...
+2. ARMC-College(HSC-2021)
+   Mymensingh, Bangladesh
+3. Shaheen Cadet Schools(SSC-2019)
+   Gazipur,Bangladesh...
+5. 
+
+
 
 
 
